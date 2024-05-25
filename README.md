@@ -59,7 +59,6 @@ System.out.println("Display : z = " +z);
 void show()
 {
 System.out.println("Display : x = " +x);
-Department of M.C.A Page 6 of 26
 System.out.println("Display : y = " +y);
 }
 }
